@@ -1,2 +1,2 @@
 # Facebook_Development
-This repository develop by post and chat application
+This repository develop by post and chat applications
